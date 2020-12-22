@@ -1,1 +1,2 @@
 # linktogen
+plaidHandler.open(activity)
